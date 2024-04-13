@@ -11,6 +11,8 @@ from transformers import (
 )
 from typing import Any, List, Mapping, Tuple
 
+PRETRAINED_MODEL = "SalmanHabeeb/techshila-model-01"
+
 
 class QuestionGenerator:
     """A transformer-based NLP system for generating reading comprehension-style questions from
