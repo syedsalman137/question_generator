@@ -1,0 +1,21 @@
+Functions can take arguments and return values. They help to organize code and make it more reusable.
+
+Exceptions can be handled using try-except blocks. Handling exceptions prevents your program from crashing.
+
+The open() function opens a file, and the read() method reads data from the file.
+
+A dictionary in Python is an unordered collection of key-value pairs.
+
+Regular expressions are used to search and manipulate text.
+
+A shallow copy creates a new object with copies of references to original elements. A deep copy recursively creates new copies of all nested elements.
+
+Virtual environments isolate project dependencies from the system-wide Python installation, preventing version conflicts and making projects reproducible.
+
+Consider libraries like Dask (parallel computing), Celery (task queues), or frameworks like Apache Spark (PySpark) for large-scale data processing.
+
+The dot operator accesses object attributes (e.g., object.attribute). Brackets are used for list indexing (e.g.,  list[index]) or dictionary key access (e.g., dict[key]).
+
+The GIL stands for Global Interpreter Lock.  It's a mechanism in CPython (the most common Python implementation) that limits only one thread to execute at a time.
+
+The GIL impacts the efficiency of multithreading in CPU-bound Python tasks.
